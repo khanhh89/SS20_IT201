@@ -1,9 +1,6 @@
 //
 // Created by khanh on 7/22/2025.
 //
-//
-// Created by khanh on 7/21/2025.
-//
 #include <stdio.h>
 #include <stdlib.h>
 
